@@ -4,7 +4,7 @@ This Wedding Management System project focuses mainly on advertising, ordering a
 The system helps to :
 * keep track of clients, and their event records with respect to categories. 
 * displays all the available wedding packages.  
-* allows online bookings for the client. 
+* allows online bookings for the client.
 In an overview of this web application:
 * marketers have to register in order to use the services. 
 * clients can view wedding packages and wedding albums as inspiration. 
