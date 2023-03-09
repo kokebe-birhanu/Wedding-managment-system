@@ -1,4 +1,4 @@
-** Wedding managment system **
+# Wedding managment system
 Introduction
 Must include link to your deployed site, final project blog article, author(s) LinkedIn
 Installation
