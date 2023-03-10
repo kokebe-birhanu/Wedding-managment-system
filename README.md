@@ -33,7 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/102972833/224229266-413b38ad-c5b4-4cc9-82cf-36916190b39e.png)
 
-##Usage
+## Usage
 
 -  Time saving
 -  Cost  saving
@@ -43,11 +43,11 @@
 -  Increase income for marketers also for country.
 -  Able to rate for the servce(get promotion)   
 
-##Contributing
+## Contributing
 
 It contribut many benfit from the brides to the country revenu . The brides can get the best wedding ceremoney in single place, the marker get better salling opportunity, the country get better revenu .
 
-##Related projects
+## Related projects
 
 There is a project related to wedding e-commerce which is [Sergenga](https://sergegna.com) 
 
